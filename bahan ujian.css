@@ -1,0 +1,26 @@
+.kotak{
+	max-width:500px;
+	background:#81A6C6;
+	padding:20px;
+	border-radius:6px;
+	margin:auto;
+} 
+label{
+	display:block;
+	margin-top:10px;
+	font-weight:bold;
+}
+.kotak2{
+	margin-top:20px;
+	padding:10px;
+	background-color:#AACDDC;
+	border-radius:8px;
+	font-weight:bold;
+	white-space:pre-line;
+}
+button{
+	padding:7px;				
+	border-radius:15px;
+	background-color:#F3E3D0;
+	font-weight:bold;
+}
